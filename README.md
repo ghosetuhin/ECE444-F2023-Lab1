@@ -8,3 +8,6 @@ Name: Tuhin Ghose
 
 ## Activity 2
 ![image](https://github.com/ghosetuhin/ECE444-F2023-Lab1/assets/71938696/04ff048f-cdb3-4ca8-8e34-494005e40110)
+
+## Activity 3
+![image](https://github.com/ghosetuhin/ECE444-F2023-Lab1/assets/71938696/c40697cf-8e38-4405-8402-67188f85b6af)
