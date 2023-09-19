@@ -20,4 +20,8 @@ Name: Tuhin Ghose
 ### Screenshot 2
 ![image](https://github.com/ghosetuhin/ECE444-F2023-Lab1/assets/71938696/27972718-22b3-4750-8f7b-d35c00eb8507)
 
+### Screenshot 3
+![image](https://github.com/ghosetuhin/ECE444-F2023-Lab1/assets/71938696/c83fba64-ad27-4dd6-ba00-dc51c7ec3ce2)
+
+
 
