@@ -1,6 +1,6 @@
 # ECE444-F2023-Lab1
 
-This repo is a clone of https://github.com/miguelgrinberg/flasky
+This repo is a clone of https://github.com/miguelgrinberg/flasky <br />
 Name: Tuhin Ghose
 
 ## Activity 1
@@ -13,4 +13,11 @@ Name: Tuhin Ghose
 ![image](https://github.com/ghosetuhin/ECE444-F2023-Lab1/assets/71938696/c40697cf-8e38-4405-8402-67188f85b6af)
 
 ## Activity 4
+
+### Screenshot 1
 ![image](https://github.com/ghosetuhin/ECE444-F2023-Lab1/assets/71938696/a3f06ee6-8977-4ead-8477-b21ae29a04ce)
+
+### Screenshot 2
+![image](https://github.com/ghosetuhin/ECE444-F2023-Lab1/assets/71938696/27972718-22b3-4750-8f7b-d35c00eb8507)
+
+
