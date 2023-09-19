@@ -11,3 +11,6 @@ Name: Tuhin Ghose
 
 ## Activity 3
 ![image](https://github.com/ghosetuhin/ECE444-F2023-Lab1/assets/71938696/c40697cf-8e38-4405-8402-67188f85b6af)
+
+## Activity 4
+![image](https://github.com/ghosetuhin/ECE444-F2023-Lab1/assets/71938696/a3f06ee6-8977-4ead-8477-b21ae29a04ce)
